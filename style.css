@@ -1,0 +1,71 @@
+.particles{
+	height: 675px;
+	width: 1366px;
+	overflow: hidden;
+	position: relative;
+}
+
+.particle{
+	position: absolute;
+	height: 50px;
+	width: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+	height: 675px;
+	width: 1366px;
+}
+
+.logo{
+	overflow: hidden;
+	height: 200px;
+	width: 200px;
+	left:583px;
+	opacity: 0;
+	position: absolute;
+}
+
+.bg{
+	position: absolute;
+	top:0px;
+	height: 3000px;
+	width: 1366px;
+	overflow: hidden;
+}
+
+.bg img{
+	position: absolute;
+	top: 675px;
+	width:1366px;
+}
+
+.about{
+	overflow: hidden;
+	position: relative;
+	display: block;
+	height: 675px;
+	width: 1366px;
+	margin-top: 2px;
+}
+
+.about h6{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	margin-top: 200px;
+	text-align: center;
+	font-size: 55;
+	color: #fff;
+}
+
+.about p{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+	margin-top: 60px;
+	text-align: center;
+	font-size: 28;
+	color: #fff;
+	padding-left: 200px;	
+	padding-right: 200px;
+}
