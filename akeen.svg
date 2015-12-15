@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="279.9763"
+     inkscape:zoom="0.5"
+     inkscape:cx="74.208226"
      inkscape:cy="196.78569"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,31 +58,35 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(388.68643,-589.58558)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0d819d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-327.68744"
-       y="868.78735"
-       id="text6079-62"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="89.846703"
-       inkscape:export-ydpi="89.846703"><tspan
-         sodipodi:role="line"
-         id="tspan6081-6"
-         x="-327.68744"
+    <g
+       id="g4137"
+       style="opacity:0.953">
+      <text
+         inkscape:export-ydpi="89.846703"
+         inkscape:export-xdpi="89.846703"
+         sodipodi:linespacing="125%"
+         id="text6079-62"
          y="868.78735"
-         style="font-size:45px;letter-spacing:63px;fill:#0d819d;fill-opacity:1">SOLUTIONS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48.13660049px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0d819d;fill-opacity:1;stroke:#0d819d;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="-343.77881"
-       y="805.86517"
-       id="text4136"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4138"
-         x="-343.77881"
+         x="-359.68744"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#373838;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:45px;letter-spacing:63px;fill:#373838;fill-opacity:1"
+           y="868.78735"
+           x="-359.68744"
+           id="tspan6081-6"
+           sodipodi:role="line">SOLUTIONS</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4136"
          y="805.86517"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300.85375977px;line-height:700%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:10px;fill:#0d819d;fill-opacity:1;stroke:#0d819d;stroke-width:8.42390537;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">akeen</tspan></text>
+         x="-375.77881"
+         style="font-style:normal;font-weight:normal;font-size:48.13660049px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#373838;fill-opacity:1;stroke:#373838;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300.85375977px;line-height:700%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:10px;fill:#373838;fill-opacity:1;stroke:#373838;stroke-width:8.42390537;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="805.86517"
+           x="-375.77881"
+           id="tspan4138"
+           sodipodi:role="line">akeen</tspan></text>
+    </g>
   </g>
 </svg>

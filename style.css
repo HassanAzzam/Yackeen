@@ -1,29 +1,31 @@
-.particles{
+.clouds{
 	height: 675px;
 	width: 1366px;
 	overflow: hidden;
-	position: relative;
+	position: absolute;
+	overflow: hidden;
 }
 
-.particle{
+.cloud{
 	position: absolute;
-	height: 50px;
-	width: 25px;
+	height: 58px;
+	width: 150px;
     margin: 0;
     padding: 0;
+    opacity: 0.5
 }
 
 .header{
-	height: 675px;
+	height: 680px;
 	width: 1366px;
+	background-color: #75caff;
+	overflow-y: hidden;
 }
 
 .logo{
 	overflow: hidden;
-	height: 200px;
 	width: 200px;
 	left:583px;
-	opacity: 0;
 	position: absolute;
 }
 
@@ -37,7 +39,7 @@
 
 .bg img{
 	position: absolute;
-	top: 675px;
+	top: 2px;
 	width:1366px;
 }
 
@@ -51,7 +53,7 @@
 }
 
 .about h6{
-	font-family: 'Open Sans', sans-serif;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 600;
 	margin-top: 200px;
 	text-align: center;
