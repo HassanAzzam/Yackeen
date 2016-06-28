@@ -22,17 +22,17 @@
 	overflow: hidden;
 }
 .jumbotron p{
-	font-size:calc(var(--globe-font) / 2.5);
+	font-size:calc(var(--globe-font) / 1.7);
 	font-weight: 100 !important;
 }
 body{
-	width: calc(100vw - 16px);
+	width: calc(100vw - 17px);
 	background-color: #fafafa;
 }
 #header h1{
 	font-weight: 100 !important;
 	margin-top:32vh;
-	font-size: calc(var(--globe-font) / 1.2); 
+	font-size: calc(var(--globe-font) / 1); 
 	color:#333;
 }
 @keyframes fade{
@@ -73,9 +73,6 @@ img{
 }
 #contact{
 	margin-top:50px !important;
-}
-#contact img{
-	margin: 5px 0px;
 }
 #contact h3{
 	margin-top: 0;
