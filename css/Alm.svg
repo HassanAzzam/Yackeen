@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="Alm.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.2659341"
+     inkscape:cx="275.03278"
+     inkscape:cy="136.88285"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g4144"
+     transform="matrix(0.84066612,0,0,0.84066612,1.5488043,49.077966)">
+    <circle
+       r="56.090042"
+       cy="80.268646"
+       cx="213.04689"
+       id="path4138"
+       style="opacity:1;fill:#b20018;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="czczzc"
+       inkscape:connector-curvature="0"
+       id="path4140"
+       d="m 185.44366,119.60173 c 7.18155,0 77.72712,-20.545756 68.14497,-53.622265 -9.58215,-33.076509 -48.62509,-13.984448 -50.27088,12.288435 1.65564,-11.999124 -9.84258,-30.807755 -23.45974,-21.225479 -13.61716,9.582276 -7.44094,29.237355 1.11713,39.099568 8.55807,9.862211 4.46852,23.459741 4.46852,23.459741 z"
+       style="fill:#f2db00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:35.64284897px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b20018;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="39.120846"
+     y="203.97997"
+     id="text4136"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4138"
+       x="39.120846"
+       y="203.97997"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#b20018;fill-opacity:1;">AlMokhtabar</tspan></text>
+</svg>

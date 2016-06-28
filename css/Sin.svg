@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="Sin.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.152"
+     inkscape:cx="138.23743"
+     inkscape:cy="106.96279"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g4142"
+     transform="matrix(2.0988134,0,0,2.0988134,-103.46639,10.656281)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4138"
+       d="M 60.153177,21.189862 85.319307,106.50917 101.27832,48.197413 85.933117,77.046388 Z"
+       style="fill:#0a428f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <circle
+       r="5.8311758"
+       cy="54.028591"
+       cx="86.240005"
+       id="path4140"
+       style="opacity:1;fill:#f79621;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40.516922px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#03132e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="111.84814"
+     y="180.19887"
+     id="text4148"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4150"
+       x="111.84814"
+       y="180.19887"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.775383px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#03132e;fill-opacity:1;">SINAI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:27.82135582px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0a428f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="111.98526"
+     y="204.66254"
+     id="text4152"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4154"
+       x="111.98526"
+       y="204.66254"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#0a428f;fill-opacity:1">UNIVERSITY</tspan></text>
+</svg>

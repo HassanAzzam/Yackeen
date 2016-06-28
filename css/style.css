@@ -1,0 +1,102 @@
+
+@media only screen and (max-width:768px){
+	:root{
+		--globe-font: 28px;
+	}
+} 
+@media only screen and (min-width:769px){
+	:root{
+		--globe-font: 40px;
+	}
+	#header h1{
+		margin-top: 40vh !important;
+	}
+} 
+*{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300 !important;
+	color: #555;
+	float: left;
+}
+.jumbotron{
+	overflow: hidden;
+}
+.jumbotron p{
+	font-size:calc(var(--globe-font) / 2.5);
+	font-weight: 100 !important;
+}
+body{
+	width: calc(100vw - 16px);
+	background-color: #fafafa;
+}
+#header h1{
+	font-weight: 100 !important;
+	margin-top:32vh;
+	font-size: calc(var(--globe-font) / 1.2); 
+	color:#333;
+}
+@keyframes fade{
+	0%{opacity: 0;}
+	10%{opacity: 1}
+	90%{opacity: 1;}
+	100%{opacity: 0}
+}
+#solutions span{
+	margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 20px;
+    width: 30%;
+    padding-bottom: 30%;
+	background-size: 100%;
+	float: left;
+	background-repeat: no-repeat; 
+}
+#solutions p{
+	width:100%;
+}
+.sol{
+	margin-bottom:50px;
+}
+.jumbotron{
+	background-color: transparent;
+}
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
+#partners a{
+	margin-left: 25%;
+	width:50%;
+}
+#partners > div{
+	margin-bottom: 50px;
+}
+#contact{
+	margin-top:50px !important;
+}
+#contact img{
+	margin: 5px 0px;
+}
+#contact h3{
+	margin-top: 0;
+	font-size: 18px;
+}
+.row{
+	width: 100% !important;
+}
+#customers img{
+	margin-top: 30px;
+	opacity: 0.5;
+	filter: grayscale(1);
+	-webkit-filter: grayscale(1);
+}
+.btn-primary{
+	background-color: #07f !important;
+	border: 0 !important;
+}
+iframe{
+	min-height: 80vh !important;
+	-webkit-mask:url(mask.png);
+	-webkit-mask-size: 100% 100%;
+	max-width:100%;
+}
